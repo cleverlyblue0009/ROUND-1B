@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### 4. Run the script
 
 bash
-python main_b.py --input input --output output --task task.json
+python main_b.py --input input --output output --task input.json
 
 
 ### 5. Output
